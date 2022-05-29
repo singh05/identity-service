@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: identityService
+netty:
+  default:
+    allocator:
+      max-order: 3
